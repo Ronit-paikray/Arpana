@@ -9,8 +9,8 @@ export default function Footer() {
                         <div className="footer-contact">
                             <h2>Contact Us</h2>
                             <a href="https://maps.app.goo.gl/HQg6gMPpAJ445cda6" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>TDDD, Odisha, India</p></a>
-                            <a href="tel:+91-637016xxxx"><p><i className="fa fa-phone"></i>+91-637016xxxx</p></a>
-                            <a href="mailto:xyz@gmail.com"><p><i className="fa fa-envelope"></i>xyz.gmail.com</p></a>
+                            <a href="tel:+91-7815058462"><p><i className="fa fa-phone"></i>+91-7815058462</p></a>
+                            <a href="mailto:Ronitpaikray@gmail.com"><p><i className="fa fa-envelope"></i>Ronitpaikray@gmail.com</p></a>
                             <div className="footer-social">
                                 <a className="btn btn-custom" href="https://x.com/cutmindia?lang=en"><i className="fab fa-x-twitter"></i></a>
                                 <a className="btn btn-custom" href="https://www.facebook.com/centurionuniversity/"><i className="fab fa-facebook-f"></i></a>
