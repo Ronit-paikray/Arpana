@@ -62,11 +62,11 @@ export default function Navbar() {
                                 </div>
                                 <div className="text">
                                     <i className="fa fa-phone"></i>
-                                    <a href="tel:+91-63701xxxxx"><p>+91-63701xxxxx</p></a>
+                                    <a href="tel:+91-63701xxxxx"><p>+91-7815058462</p></a>
                                 </div>
                                 <div className="text">
                                     <i className="fa fa-envelope"></i>
-                                    <a href="mailto:XYZ@gmail.com"><p>XYZ@gmail.com</p></a>
+                                    <a href="mailto:XYZ@gmail.com"><p>Ronitpaikray@gmail.com</p></a>
                                 </div>
                             </div>
                         </div>
