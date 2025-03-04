@@ -57,8 +57,12 @@ export default function Footer() {
                     <div className="col-md-6">
                         <p>&copy; <a href="#">Arpana</a> | 2025, All Right Reserved.</p>
                     </div>
+                      <div className="row">
                     <div className="col-md-6">
-                        <p>Designed By <a href="https://cutm.ac.in/">TDDD, Bhubaneswar, Odisha</a></p>
+                        <p>&copy; <a href="https://www.google.com/maps/place/SURYA+DIGITALS+%26+FLEX+ZONE/@18.7663222,84.0880139,749m/data=!3m1!1e3!4m6!3m5!1s0x3a3cf7ba59fc8e23:0x16680c3cdada56ef!8m2!3d18.7662922!4d84.0907143!16s%2Fg%2F11lznzvfsx?authuser=0&entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D">Surya Digitals</a> | Media Partner.</p>
+                    </div>
+                    <div className="col-md-6">
+                        <p>Designed By <a href="https://the-desi-digital-defender.blogspot.com/">TDDD, Bhubaneswar, Odisha</a></p>
                     </div>
                 </div>
             </div>
